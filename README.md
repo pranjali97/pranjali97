@@ -6,4 +6,4 @@
 - 💬 Ask me about machine learning, artificial intelligence and natural language processing
 - 📫 How to reach me: pranb.mail[at]gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Can hula hoop for a significant time
+- ⚡ Fun fact: Can hula hoop for a real long time
