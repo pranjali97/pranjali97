@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on multilingual tweet intimacy analysis for the SemEval 2023 competition.
+- 🔭 I’m currently working on Formality controlled neural machine translation for IWSLT 2023.
 - 🌱 I’m currently learning Natural langauge processing and Deep learning
 - 👯 I’m looking to collaborate on cutting-edge research projects
 - 💬 Ask me about machine learning, artificial intelligence and natural language processing
